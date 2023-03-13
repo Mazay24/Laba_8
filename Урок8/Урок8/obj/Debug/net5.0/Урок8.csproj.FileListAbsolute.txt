@@ -1,0 +1,16 @@
+C:\Users\samui\source\repos\Урок8\Урок8\bin\Debug\net5.0\Урок8.exe
+C:\Users\samui\source\repos\Урок8\Урок8\bin\Debug\net5.0\Урок8.deps.json
+C:\Users\samui\source\repos\Урок8\Урок8\bin\Debug\net5.0\Урок8.runtimeconfig.json
+C:\Users\samui\source\repos\Урок8\Урок8\bin\Debug\net5.0\Урок8.runtimeconfig.dev.json
+C:\Users\samui\source\repos\Урок8\Урок8\bin\Debug\net5.0\Урок8.dll
+C:\Users\samui\source\repos\Урок8\Урок8\bin\Debug\net5.0\ref\Урок8.dll
+C:\Users\samui\source\repos\Урок8\Урок8\bin\Debug\net5.0\Урок8.pdb
+C:\Users\samui\source\repos\Урок8\Урок8\obj\Debug\net5.0\Урок8.csproj.AssemblyReference.cache
+C:\Users\samui\source\repos\Урок8\Урок8\obj\Debug\net5.0\Урок8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samui\source\repos\Урок8\Урок8\obj\Debug\net5.0\Урок8.AssemblyInfoInputs.cache
+C:\Users\samui\source\repos\Урок8\Урок8\obj\Debug\net5.0\Урок8.AssemblyInfo.cs
+C:\Users\samui\source\repos\Урок8\Урок8\obj\Debug\net5.0\Урок8.csproj.CoreCompileInputs.cache
+C:\Users\samui\source\repos\Урок8\Урок8\obj\Debug\net5.0\Урок8.dll
+C:\Users\samui\source\repos\Урок8\Урок8\obj\Debug\net5.0\ref\Урок8.dll
+C:\Users\samui\source\repos\Урок8\Урок8\obj\Debug\net5.0\Урок8.pdb
+C:\Users\samui\source\repos\Урок8\Урок8\obj\Debug\net5.0\Урок8.genruntimeconfig.cache
